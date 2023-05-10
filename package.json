@@ -1,0 +1,17 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callbacks/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Leonardo Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
