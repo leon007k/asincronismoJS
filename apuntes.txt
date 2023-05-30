@@ -63,3 +63,6 @@ otro contexto distinto al de la aplicación, el mensaje se inserta en una cola d
 y se registra su callback correspondiente. El stack debe estar vacío para que esto suceda.
 
 • 🚗🚕 Micro Task Queue: Aquí se agregan las promesas. Esta Queue es la que tiene mayor prioridad.
+
+npm i node-fetch: Nos permitira instalar fetch en nuestro ambiente. Es necesario modoficar el 
+package.json agregando el valor "type":"module"
